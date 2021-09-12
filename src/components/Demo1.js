@@ -12,21 +12,22 @@ function Demo1(){
 */
 
 //Option 2
-/*
-const Demo1 = () =>{
+const Demo1 = (props) =>{
     return (
         <div>
             <h1>Hello from Function Component</h1>
+            <h2>{props.Title}</h2>
         </div>
     )
 }
-*/
 
 //Option 3
+/*
 const Demo1 = () => (
     <div>
         <h1>Hello From function Component</h1>
     </div>
 )
+*/
 
 export default Demo1;
