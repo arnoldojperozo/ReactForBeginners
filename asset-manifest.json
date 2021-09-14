@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arnoldojperozo/ReactForBeginners/static/css/main.a617e044.chunk.css",
+    "main.js": "/arnoldojperozo/ReactForBeginners/static/js/main.727f83bf.chunk.js",
+    "main.js.map": "/arnoldojperozo/ReactForBeginners/static/js/main.727f83bf.chunk.js.map",
+    "runtime-main.js": "/arnoldojperozo/ReactForBeginners/static/js/runtime-main.6181798f.js",
+    "runtime-main.js.map": "/arnoldojperozo/ReactForBeginners/static/js/runtime-main.6181798f.js.map",
+    "static/js/2.5d624415.chunk.js": "/arnoldojperozo/ReactForBeginners/static/js/2.5d624415.chunk.js",
+    "static/js/2.5d624415.chunk.js.map": "/arnoldojperozo/ReactForBeginners/static/js/2.5d624415.chunk.js.map",
+    "static/js/3.36633785.chunk.js": "/arnoldojperozo/ReactForBeginners/static/js/3.36633785.chunk.js",
+    "static/js/3.36633785.chunk.js.map": "/arnoldojperozo/ReactForBeginners/static/js/3.36633785.chunk.js.map",
+    "index.html": "/arnoldojperozo/ReactForBeginners/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/arnoldojperozo/ReactForBeginners/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5d624415.chunk.js.LICENSE.txt": "/arnoldojperozo/ReactForBeginners/static/js/2.5d624415.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6181798f.js",
+    "static/js/2.5d624415.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.727f83bf.chunk.js"
+  ]
+}
